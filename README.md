@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # system
 学生管理系统
 
 =======
 # studentm
-MoongoDb+vue+nodejs
+MongoDB数据库，前端使用vue，后端使用node.js
 ## 运行程序
 ```
 npm run serve
@@ -27,11 +26,3 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> first commit

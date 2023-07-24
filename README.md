@@ -1,28 +1,17 @@
 # system
 学生管理系统
+使用MongoDB数据库，前端使用vue，后端使用node.js
 
-=======
-# studentm
-MongoDB数据库，前端使用vue，后端使用node.js
-## 运行程序
+## 创建数据库
+在MongoDB数据库中创建student库
+
+## 安装依赖
 ```
-npm run serve
-```
-```
-node server
-```
-## Project setup
-```
-npm install
+npm install 
 ```
 
-### Compiles and hot-reloads for development
+## 运行项目
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm   dev run
 ```
 
